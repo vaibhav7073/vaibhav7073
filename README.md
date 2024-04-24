@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Dixit</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India. Motivated by a passion for cricket and a keen interest in music and traveling, I aspire to become a proficient cricket analyst. My enthusiasm for cricket stems from its blend of strategy, athleticism, and teamwork, driving me to delve deeper into its intricacies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav7073&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav7073" /> </p>
 
